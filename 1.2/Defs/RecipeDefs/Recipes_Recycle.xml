@@ -2,8 +2,8 @@
 <Defs>
   <RecipeDef>
     <defName>RecycleApparel</defName>
-    <label>Recycle apparel</label>
-    <description>Recycle apparel back to raw resources.</description>
+    <label>recycle apparel</label>
+    <description>Break down apparel like jacket into useful resources.</description>
     <jobString>Recycling apparel.</jobString>
     <workAmount>1600</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
