@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="FabricationBench"]/costList</xpath>
+    <value>
+      <costList>
+        <Steel>350</Steel>
+        <ComponentIndustrial>15</ComponentIndustrial>
+        <Plasteel>20</Plasteel>
+        <Gold>10</Gold>
+      </costList>
+    </value>
+  </Operation>
+</Patch>
