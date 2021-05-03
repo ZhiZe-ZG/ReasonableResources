@@ -70,7 +70,7 @@
         <li>Weapons</li>
       </categories>
       <specialFiltersToDisallow>
-        <li>AllowSmeltableWeapons</li>
+        <li>AllowSmeltable</li>
       </specialFiltersToDisallow>
     </fixedIngredientFilter>
     <forceHiddenSpecialFilters>
