@@ -42,4 +42,46 @@
       <li>HandTailoringBench</li>
     </recipeUsers>
   </RecipeDef>
+  <RecipeDef>
+    <defName>RecycleWeapon</defName>
+    <label>recycle weapon</label>
+    <description>Break down weapons into useful resources.</description>
+    <jobString>Recycling weapon.</jobString>
+    <workAmount>1600</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Smith</effectWorking>
+    <soundWorking>Recipe_Smith</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Weapons</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <specialProducts>
+      <li>Smelted</li>
+    </specialProducts>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Weapons</li>
+      </categories>
+      <specialFiltersToDisallow>
+        <li>AllowSmeltableWeapons</li>
+      </specialFiltersToDisallow>
+    </fixedIngredientFilter>
+    <forceHiddenSpecialFilters>
+      <li>AllowNonSmeltableWeapons</li>
+      <li>AllowSmeltable</li>
+      <li>AllowBurnableWeapons</li>
+      <li>AllowNonBurnableWeapons</li>
+    </forceHiddenSpecialFilters>
+    <recipeUsers>
+      <li>ElectricSmithy</li>
+      <li>FueledSmithy</li>
+    </recipeUsers>
+  </RecipeDef>
 </Defs>

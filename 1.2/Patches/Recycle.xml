@@ -6,4 +6,10 @@
             <li>AllowNonSmeltableApparel</li>
         </value>
     </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/RecipeDef[defName="SmeltWeapon"]/forceHiddenSpecialFilters</xpath>
+        <value>
+            <li>AllowNonSmeltableWeapons</li>
+        </value>
+    </Operation>
 </Patch>
