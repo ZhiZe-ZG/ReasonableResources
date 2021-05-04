@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <RecipeDef>
+        <defName>SmeltComponent</defName>
+        <label>smelt metal from components</label>
+        <description>Use heat and strong electromagnets to extract useful metal from components.</description>
+        <jobString>Smelting component.</jobString>
+        <workAmount>100</workAmount>
+        <workSpeedStat>SmeltingSpeed</workSpeedStat>
+        <effectWorking>Smelt</effectWorking>
+        <soundWorking>Recipe_Smelt</soundWorking>
+        <ingredients>
+            <li>
+                <filter>
+                    <thingDefs>
+                        <li>ComponentIndustrial</li>
+                        <li>ComponentSpacer</li>
+                    </thingDefs>
+                </filter>
+                <count>1</count>
+            </li>
+        </ingredients>
+        <specialProducts>
+            <li>Smelted</li>
+        </specialProducts>
+        <fixedIngredientFilter>
+            <thingDefs>
+                <li>ComponentIndustrial</li>
+                <li>ComponentSpacer</li>
+            </thingDefs>
+        </fixedIngredientFilter>
+    </RecipeDef>
+</Defs>
