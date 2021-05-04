@@ -2,9 +2,9 @@
 <Defs>
     <RecipeDef>
         <defName>Make_ComponentIndustrial_Bulk</defName>
-        <label>make component</label>
-        <description>Make a component.</description>
-        <jobString>Making component.</jobString>
+        <label>make component x4</label>
+        <description>Make 4 components.</description>
+        <jobString>Making 4 components.</jobString>
         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
         <effectWorking>Cook</effectWorking>
         <soundWorking>Recipe_Machining</soundWorking>
@@ -36,9 +36,9 @@
 
     <RecipeDef>
         <defName>Make_ComponentSpacer_Bulk</defName>
-        <label>make advanced component</label>
-        <description>Make an advanced component.</description>
-        <jobString>Making advanced component.</jobString>
+        <label>make advanced component x4</label>
+        <description>Make 4 advanced components.</description>
+        <jobString>Making 4 advanced components.</jobString>
         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
         <effectWorking>Cook</effectWorking>
         <soundWorking>Recipe_Machining</soundWorking>
