@@ -13,7 +13,9 @@ A data rebalance mod for Rimworld.
 
 ## Supported Languages
 
-- [x] Simplified Chinese
+- [x] English
+
+- [x] Simplified Chinese (简体中文)
 
 ## To Do
 
