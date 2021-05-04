@@ -3,7 +3,8 @@
     <Operation Class="PatchOperationAdd">
         <xpath>/Defs/ThingDef[defName="ElectricSmelter"]/recipes</xpath>
         <value>
-            <li>SmeltComponent</li>
+            <li>SmeltComponentIndustrial</li>
+            <li>SmeltComponentSpacer</li>
         </value>
     </Operation>
 </Patch>
