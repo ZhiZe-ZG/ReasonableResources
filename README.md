@@ -9,13 +9,18 @@ A data rebalance mod for Rimworld.
 - [x] [Fix] Recipe `SmeltWeapon`  no longer allow `NonSmeltableWeapons`.
 - [x] [Add] Add non smeltable apparel recycle recipe for tailoring benches.
 - [x] [Add] Add non smeltable  weapons recycle recipe for smithies.
+- [x] [Add] Add components smelt recipe and advanced components smelt recipe.
+
+## Supported Languages
+
+- [x] Simplified Chinese
 
 ## To Do
 
-- [ ] Chinese Support
-- [ ] Smeltable components
 - [ ] Harvest grass get resources
 - [ ] Bone mod compatibility
+- [ ] Mixed resources
+- [ ] More component types
 
 ## Inspired By
 

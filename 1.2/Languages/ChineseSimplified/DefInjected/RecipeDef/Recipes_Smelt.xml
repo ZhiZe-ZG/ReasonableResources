@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: smelt component -->
+    <SmeltComponentIndustrial.label>熔炼零部件</SmeltComponentIndustrial.label>
+    <!-- EN: Although it is not recommended, you still cam smelt a component. -->
+    <SmeltComponentIndustrial.description>虽然这么做会造成资源浪费，但你仍旧可以把零部件熔炼为钢铁。</SmeltComponentIndustrial.description>
+    <!-- EN: Smelting component -->
+    <SmeltComponentIndustrial.jobString>正在熔炼零部件。</SmeltComponentIndustrial.jobString>
+
+    <!-- EN: smelt advanced component -->
+    <SmeltComponentSpacer.label>熔炼高级零部件</SmeltComponentSpacer.label>
+    <!-- EN: Although it is not recommended, you still cam smelt an advanced component. -->
+    <SmeltComponentSpacer.description>虽然这么做会造成资源浪费，但你仍旧可以把高级零部件熔炼为资源。</SmeltComponentSpacer.description>
+    <!-- EN: Smelting advanced component -->
+    <SmeltComponentSpacer.jobString>正在熔炼高级零部件。</SmeltComponentSpacer.jobString>
+</LanguageData>

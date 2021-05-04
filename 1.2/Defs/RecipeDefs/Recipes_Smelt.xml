@@ -50,7 +50,7 @@
         <products>
             <Steel>8</Steel>
             <Plasteel>2</Plasteel>
-            <Gold>0.1</Gold>
+            <Gold>1</Gold>
         </products>
         <fixedIngredientFilter>
             <thingDefs>
