@@ -19,6 +19,7 @@ A data rebalance mod for Rimworld.
 
 ## To Do
 
+- [x] Update to RimWorld 1.3
 - [ ] Harvest grass get resources
 - [ ] Bone mod compatibility
 - [ ] Mixed resources

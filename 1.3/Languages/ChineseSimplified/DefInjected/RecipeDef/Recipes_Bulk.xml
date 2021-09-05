@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: make 4 components -->
+    <Make_ComponentIndustrial_Bulk.label>制作零部件 x4</Make_ComponentIndustrial_Bulk.label>
+    <!-- EN: Make 4 components. -->
+    <Make_ComponentIndustrial_Bulk.description>制作四个零部件。</Make_ComponentIndustrial_Bulk.description>
+    <!-- EN: Making 4 components -->
+    <Make_ComponentIndustrial_Bulk.jobString>正在制作四个零部件。</Make_ComponentIndustrial_Bulk.jobString>
+
+    <!-- EN: make 4 advanced components -->
+    <Make_ComponentSpacer_Bulk.label>制作高级零部件 x4</Make_ComponentSpacer_Bulk.label>
+    <!-- EN: Make 4 advanced components. -->
+    <Make_ComponentSpacer_Bulk.description>制作四个高级零部件。</Make_ComponentSpacer_Bulk.description>
+    <!-- EN: Making 4 advanced components -->
+    <Make_ComponentSpacer_Bulk.jobString>正在制作四个高级零部件。</Make_ComponentSpacer_Bulk.jobString>
+</LanguageData>
