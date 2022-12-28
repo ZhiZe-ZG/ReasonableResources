@@ -3,17 +3,25 @@ A data rebalance mod for Rimworld.
 
 ## Features
 
+### Cheaper and Easier Components
+
 - [x] [Change] Fabrication bench need plasteel and gold instead of advanced component.
 - [x] [Add] Add bulk recipes for components. This recipe will save 20% of the work amount.
+
+### Recycle Items
+
 - [x] [Fix] Recipe `SmeltApparel` no longer allow `NonSmeltableApparel`.
 - [x] [Fix] Recipe `SmeltWeapon`  no longer allow `NonSmeltableWeapons`.
 - [x] [Add] Add non smeltable apparel recycle recipe for tailoring benches.
 - [x] [Add] Add non smeltable  weapons recycle recipe for smithies.
 - [x] [Add] Add components smelt recipe and advanced components smelt recipe.
+
+### Harvest Grass Yield Resources
+
 - [x] [Add] Harvest grass yield 1 hay.
 - [x] [Add] Harvest tall grass yield 2 hay.
 - [x] [Add] Harvest plant bush yield 2 wood log. The harvest work of bush is a little more than tall grass.
-- [ ] [Add] Harvest plant brambles yield 2 wood log. The harvest work of bush is a little more than tall grass.
+- [x] [Add] Harvest plant brambles yield 2 wood log. The harvest work of bush is a little more than tall grass.
 
 ## Supported Languages
 
@@ -24,8 +32,8 @@ A data rebalance mod for Rimworld.
 ## To Do
 
 - [x] Update to RimWorld 1.3
-- [ ] Update to RimWorld 1.4
-- [ ] Harvest grass get resources
+- [x] Update to RimWorld 1.4
+- [x] Harvest grass get resources
 - [ ] Bone mod compatibility
 - [ ] Mixed resources
 - [ ] More component types
