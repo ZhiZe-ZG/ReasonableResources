@@ -18,10 +18,10 @@ A data rebalance mod for Rimworld.
 
 ### Harvest Grass Yield Resources
 
-- [x] [Add] Harvest grass yield 1 hay.
-- [x] [Add] Harvest tall grass yield 2 hay.
-- [x] [Add] Harvest plant bush yield 2 wood log. The harvest work of bush is a little more than tall grass.
-- [x] [Add] Harvest plant brambles yield 2 wood log. The harvest work of bush is a little more than tall grass.
+- [x] [Add] Harvest grass yield 2 hay.
+- [x] [Add] Harvest tall grass yield 3 hay. The harvest work of tall grass is a little more than grass.
+- [x] [Add] Harvest plant bush yield 4 hay. The harvest work of bush is a little more than tall grass.
+- [x] [Add] Harvest plant brambles yield 4 hay. The harvest work of brambles is a little more than tall grass.
 
 ## Supported Languages
 
