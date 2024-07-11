@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName = "Plant_Grass"]/plant</xpath>
+    <value>
+      <harvestYield>2</harvestYield>
+      <harvestedThingDef>Hay</harvestedThingDef>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName = "Plant_TallGrass"]/plant</xpath>
+    <value>
+      <harvestYield>3</harvestYield>
+      <harvestedThingDef>Hay</harvestedThingDef>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName = "Plant_Bush"]/plant</xpath>
+    <value>
+      <harvestWork>80</harvestWork>
+      <harvestYield>4</harvestYield>
+      <harvestedThingDef>Hay</harvestedThingDef>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/ThingDef[defName = "Plant_Brambles"]/plant</xpath>
+    <value>
+      <harvestYield>4</harvestYield>
+      <harvestedThingDef>Hay</harvestedThingDef>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName = "Plant_Brambles"]/plant/harvestWork</xpath>
+    <value>
+      <harvestWork>80</harvestWork>
+    </value>
+  </Operation>
+</Patch>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: recycle apparel -->
+    <RecycleApparel.label>拆解衣物</RecycleApparel.label>
+    <!-- EN: recycle apparel for resources. -->
+    <RecycleApparel.description>把衣物拆解为有用的资源。</RecycleApparel.description>
+    <!-- EN: Recycling apparel -->
+    <RecycleApparel.jobString>正在拆解衣物。</RecycleApparel.jobString>
+
+    <!-- EN: recycle weapon -->
+    <RecycleWeapon.label>拆解武器</RecycleWeapon.label>
+    <!-- EN: recycle non smelt able weapons for resources. -->
+    <RecycleWeapon.description>把不可熔炼的武器拆解为有用的资源。</RecycleWeapon.description>
+    <!-- EN: Recycling weapon -->
+    <RecycleWeapon.jobString>正在拆解武器。</RecycleWeapon.jobString>
+</LanguageData>

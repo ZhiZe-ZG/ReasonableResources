@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <RecipeDef>
+        <defName>SmeltComponentIndustrial</defName>
+        <label>smelt metal from components</label>
+        <description>Use heat and strong electromagnets to extract useful metal from components.</description>
+        <jobString>Smelting component.</jobString>
+        <workAmount>100</workAmount>
+        <workSpeedStat>SmeltingSpeed</workSpeedStat>
+        <effectWorking>Smelt</effectWorking>
+        <soundWorking>Recipe_Smelt</soundWorking>
+        <ingredients>
+            <li>
+                <filter>
+                    <thingDefs>
+                        <li>ComponentIndustrial</li>
+                    </thingDefs>
+                </filter>
+                <count>1</count>
+            </li>
+        </ingredients>
+        <products>
+            <Steel>3</Steel>
+        </products>
+        <fixedIngredientFilter>
+            <thingDefs>
+                <li>ComponentIndustrial</li>
+            </thingDefs>
+        </fixedIngredientFilter>
+    </RecipeDef>
+    <RecipeDef>
+        <defName>SmeltComponentSpacer</defName>
+        <label>smelt metal from advanced components</label>
+        <description>Use heat and strong electromagnets to extract useful metal from advanced components.</description>
+        <jobString>Smelting component.</jobString>
+        <workAmount>100</workAmount>
+        <workSpeedStat>SmeltingSpeed</workSpeedStat>
+        <effectWorking>Smelt</effectWorking>
+        <soundWorking>Recipe_Smelt</soundWorking>
+        <ingredients>
+            <li>
+                <filter>
+                    <thingDefs>
+                        <li>ComponentSpacer</li>
+                    </thingDefs>
+                </filter>
+                <count>1</count>
+            </li>
+        </ingredients>
+        <products>
+            <Steel>8</Steel>
+            <Plasteel>2</Plasteel>
+            <Gold>1</Gold>
+        </products>
+        <fixedIngredientFilter>
+            <thingDefs>
+                <li>ComponentSpacer</li>
+            </thingDefs>
+        </fixedIngredientFilter>
+    </RecipeDef>
+</Defs>
